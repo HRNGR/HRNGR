@@ -1,6 +1,6 @@
 # README
 
-![snake svg](https://github.com/Comp-Wolf/Comp-Wolf/blob/output/github-contribution-grid-snake.svg)
+![snake svg](![image](https://user-images.githubusercontent.com/96360040/158349739-729af2fb-fe96-470e-abb3-6a84c93fe8a4.png))
 
 -------------
 
@@ -19,7 +19,7 @@
 - 💬 my site www.harungur.com   ✨
 - 📫 https://www.linkedin.com/in/harun-gür-98190267/   ✨
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comp-wolf&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRNGR&theme=radical)
 
   
 ## 📫 Reach Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
@@ -28,6 +28,6 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:gurharun@gmail.com)
   
 <!---
-Comp-Wolf/Comp-Wolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HRNGR/HRNGR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
