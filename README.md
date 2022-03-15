@@ -11,7 +11,7 @@
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
-## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQFkmiGOd9S9dg/profile-displayphoto-shrink_800_800/0/1641839805384?e=1652918400&v=beta&t=UckwfzJ2JEYBriMqDmApb6oAEiAZq3gJv_nsgE5LqKE" width="15%"> About Me <img alt="Coding" width="140" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
+## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQFkmiGOd9S9dg/profile-displayphoto-shrink_800_800/0/1641839805384?e=1652918400&v=beta&t=UckwfzJ2JEYBriMqDmApb6oAEiAZq3gJv_nsgE5LqKE" width="15%"> About Me <img alt="Coding" width="150" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
 
   
 - 👋 Hi, I’m @HarunGUR
