@@ -15,9 +15,10 @@
 - 👨‍🎓 I’m Electronics and Communications M.Sc. Engineer
 - 👀 I’m interested in IT, Automation and Electronic
 - 🌱 I’m currently learning AWS and DevOps
+- 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 reach me gurharun@gmail.com  ✨
-- 💬 my site www.harungur.com   ✨
+- 💻 my site www.harungur.com   ✨
 - 📫 https://www.linkedin.com/in/harun-gür-98190267/   ✨
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRNGR&theme=radical)
