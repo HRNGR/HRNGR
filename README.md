@@ -18,8 +18,7 @@
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
 - 👀 I’m currently learning AWS and DevOps 
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 expacially GITHUB CAT <img src="https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png" width="3%">
-- 💞️ I’m looking to collaborate on DevOps <img src="![image](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png)
-" width="3%">
+- 💞️ I’m looking to collaborate on DevOps <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="3%">
 - 📫 reach me gurharun@gmail.com  ✨
 - 💻 my site www.harungur.com   ✨
 - 📫 https://www.linkedin.com/in/harun-gür-98190267/   ✨
