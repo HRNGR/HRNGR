@@ -10,11 +10,14 @@
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
+ 
+  ![image](https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png)
+  
   
 - 👋 Hi, I’m @HarunGUR
 - 👨‍🎓 I’m Electronics and Communications M.Sc. Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
-- 👀 I’m currently learning AWS and DevOps ![image](https://user-images.githubusercontent.com/96360040/158360781-2f6779fa-25ec-4a6f-9f62-8c15c5f28d6c.png)
+- 👀 I’m currently learning AWS and DevOps
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 
 - 💞️ I’m looking to collaborate on DevOps 
 - 📫 reach me gurharun@gmail.com  ✨
