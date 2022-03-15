@@ -11,7 +11,7 @@
 
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
  
-  ![image](https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png)
+ <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png)" height="15px"/></a>  
   
   
 - 👋 Hi, I’m @HarunGUR
