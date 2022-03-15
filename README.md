@@ -12,7 +12,8 @@
 ## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%">
   
 - 👋 Hi, I’m @HarunGUR
-- 👀 I’m interested in IT
+- 👨‍🎓 I’m Electronics and Communications M.Sc. Engineer
+- 👀 I’m interested in IT, Automation and Electronic
 - 🌱 I’m currently learning AWS and DevOps
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 reach me gurharun@gmail.com  ✨
