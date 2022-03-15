@@ -14,7 +14,7 @@
   
   
 - 👋 Hi, I’m @HarunGUR
-- 👨‍🎓 I’m Electronics and Communications M.Sc. Engineer
+- 👨‍🎓 I’m an Electronics and Communications M.Sc. Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
 - 👀 I’m currently learning AWS and DevOps 
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 expacially GITHUB CAT <img src="https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png" width="4%">
