@@ -40,7 +40,7 @@
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HRNGR&show_icons=true&theme=cobalt" alt="Harun" /></p>
   
-<p align="right"> <img alt="Coding" width="70" height="25" src="https://komarev.com/ghpvc/?username=HRNGR&label=Profile%20views&color=129e00&style=plastic" alt="Harun" /> </p>
+<p align="right"> <img alt="Coding" width="80" height="25" src="https://komarev.com/ghpvc/?username=HRNGR&label=Profile%20views&color=129e00&style=plastic" alt="Harun" /> </p>
 <hr>
 <!---
 HRNGR/HRNGR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
