@@ -13,10 +13,10 @@
   
 - 👋 Hi, I’m @HarunGUR
 - 👨‍🎓 I’m Electronics and Communications M.Sc. Engineer
-- 👀 I’m interested in IT, Automation and Electronic
-- 🌱 I’m currently learning AWS and DevOps
+- 👨‍🏫 I’m interested in IT, Automation and Electronic
+- 👀 I’m currently learning AWS and DevOps ![image](https://user-images.githubusercontent.com/96360040/158360781-2f6779fa-25ec-4a6f-9f62-8c15c5f28d6c.png)
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 
-- 💞️ I’m looking to collaborate on DevOps
+- 💞️ I’m looking to collaborate on DevOps 
 - 📫 reach me gurharun@gmail.com  ✨
 - 💻 my site www.harungur.com   ✨
 - 📫 https://www.linkedin.com/in/harun-gür-98190267/   ✨
