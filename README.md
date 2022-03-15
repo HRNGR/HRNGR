@@ -1,6 +1,6 @@
 # README
 
-![snake svg](![image](https://user-images.githubusercontent.com/96360040/158349739-729af2fb-fe96-470e-abb3-6a84c93fe8a4.png))
+![snake svg](https://github.com/HRNGR/HRNGR/blob/output/github-contribution-grid-snake.svg)
 
 -------------
 
