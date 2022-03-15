@@ -9,16 +9,16 @@
   
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
-## <img src="https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png" width="4%"> About Me <img src="https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png" width="5%">
+## <img src="https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png" width="5%"> About Me <img src="https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png" width="5%">
  
   
   
 - 👋 Hi, I’m @HarunGUR
 - 👨‍🎓 I’m Electronics and Communications M.Sc. Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
-- 👀 I’m currently learning AWS and DevOps
-- 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 
-- 💞️ I’m looking to collaborate on DevOps 
+- 👀 I’m currently learning AWS and DevOps 
+- 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 expacially GITHUB CAT <img src="https://user-images.githubusercontent.com/96360040/158361364-108b1c19-f72a-46b7-bc6a-e0f43ad2c8fa.png" width="2%">
+- 💞️ I’m looking to collaborate on DevOps <img src="![image](https://user-images.githubusercontent.com/96360040/158363035-121080d0-a77b-4b56-a9ee-aadf198ceb9e.png)" width="5%"> 
 - 📫 reach me gurharun@gmail.com  ✨
 - 💻 my site www.harungur.com   ✨
 - 📫 https://www.linkedin.com/in/harun-gür-98190267/   ✨
