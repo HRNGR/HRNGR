@@ -8,7 +8,7 @@
 ## <img alt="Coding" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQFkmiGOd9S9dg/profile-displayphoto-shrink_800_800/0/1641839805384?e=1652918400&v=beta&t=UckwfzJ2JEYBriMqDmApb6oAEiAZq3gJv_nsgE5LqKE" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://miro.medium.com/max/1400/1*pXPseZOkwPqHGKaBXGS3sQ.png" >
 
   
-- 👋 Hi, I’m @HarunGUR
+- 👋 Hi, I’m @Harun GUR
 - 👨‍🎓 I’m an Electronics and Communications M.Sc. Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
 - 👀 I’m currently learning AWS and DevOps 
