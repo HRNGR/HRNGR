@@ -8,10 +8,6 @@
 
 ## <img alt="Coding" width="100" height="100" src="https://user-images.githubusercontent.com/96360040/159109665-cabace91-a877-4d8c-87a9-71cf96c8feca.png" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://user-images.githubusercontent.com/96360040/159109581-3db59e5e-0c1d-4ddf-8cb0-58c58185f07c.png" >
 
-  ![aaa](https://user-images.githubusercontent.com/96360040/159110852-09a3777c-13e9-4980-8d50-c442bb745b2d.gif)
-
-
-  
 - 👋 Hi, I’m @Harun GUR
 - 👨‍🎓 I’m an Electronics and Communications M.Sc. Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
