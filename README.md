@@ -6,7 +6,9 @@
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
-## <img alt="Coding" width="100" height="100" src="https://user-images.githubusercontent.com/96360040/159109665-cabace91-a877-4d8c-87a9-71cf96c8feca.png" width="15%"> About Me <img alt="Coding" width="180" height="100" src="https://user-images.githubusercontent.com/96360040/159109581-3db59e5e-0c1d-4ddf-8cb0-58c58185f07c.png" >
+ <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
+  
+## < About Me>
 
 - 👋 Hi, I’m @Harun GUR
 - 👨‍🎓 I’m an Electronics and Communications M.Sc. Engineer
