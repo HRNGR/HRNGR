@@ -12,7 +12,7 @@
 - 👋 Hi, I’m @Harun GUR
 - 👨‍🎓 I’m an Electronics and Communications M.Sc.Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
-- 👀 I’m currently learning AWS and DevOps 
+- 👀 I’m currently learning AWS and DevOps
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
 - 💞️ I’m looking to collaborate on DevOps;
 ----------------
