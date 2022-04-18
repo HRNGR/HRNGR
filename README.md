@@ -5,7 +5,7 @@
 
 <a href="#"><img width="50%" height="auto" src="![image](https://user-images.githubusercontent.com/96360040/158347720-eccfe991-1374-49d0-a3b7-3047b362fe7c.png)" height="75px"/></a>
 
- <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="800">
+ <h3 align="center"> <img src="https://user-images.githubusercontent.com/96360040/159213110-2fdaf4e9-4a7d-4d47-9fc2-80e08b528d57.gif" width="1000">
    
 ## < About Me>
 
@@ -17,8 +17,8 @@
 - 💞️ I’m looking to collaborate on DevOps;
 ----------------
 <h1 align="left"> >My Skills> <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930" alt="photo" width="100">
+ 
 -------------
-
 <p> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="10%"> <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" width="10%"> <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" width="10%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="15%"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="12%"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="8%"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" width="50"> <img src="https://www.pngitem.com/pimgs/m/201-2012093_linux-logo-png-linux-logo-transparent-background-png.png" width="5%"> <img src="https://simg.nicepng.com/png/small/386-3869336_hashicorp-terraform-logo.png" width="7%">
 
 ----------------
