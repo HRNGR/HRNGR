@@ -15,7 +15,7 @@
 - 👀 I’m currently learning AWS and DevOps
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
 - 💞️ I’m looking to collaborate on DevOps;
-----------------
+---------------
 <h1 align="left"> >My Skills> <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930" alt="photo" width="100">
  
 -------------
