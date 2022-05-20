@@ -13,10 +13,10 @@
 - 👨‍🎓 I’m an Electronics and Communications M.Sc.Engineer
 - 👨‍🏫 I’m interested in IT, Automation and Electronic
 - 👀 I’m currently learning AWS and DevOps
-- 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="5%">
+- 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
 - 💞️ I’m looking to collaborate on DevOps;
 ---------------
-<h1 align="left"> >My Skills> <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930" alt="photo" width="100">
+<h1 align="left"> >My Skills> <img width="50%" height="auto" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930" alt="photo" width="100">
  
 -------------
 <p> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="10%"> <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" width="10%"> <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" width="10%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="15%"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="12%"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" width="8%"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" width="50"> <img src="https://www.pngitem.com/pimgs/m/201-2012093_linux-logo-png-linux-logo-transparent-background-png.png" width="5%"> <img src="https://simg.nicepng.com/png/small/386-3869336_hashicorp-terraform-logo.png" width="7%">
